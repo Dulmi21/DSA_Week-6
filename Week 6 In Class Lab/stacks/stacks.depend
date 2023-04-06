@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680773142 source:c:\users\dulmi\onedrive\desktop\dulmi\semester 2\stacks\main.cpp
+	<iostream>
+	<chrono>
+	<bits/stdc++.h>
+
